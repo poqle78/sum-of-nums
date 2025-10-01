@@ -1,5 +1,5 @@
 import unittest
-from лаба2.lab2 import *
+from lab2 import *
 
 
 # Тест функций

@@ -1,4 +1,4 @@
-from лаба2.lab2 import *
+from lab2 import *
 
 # Запуск функций с вводом данных с клавиатуры
 try:
